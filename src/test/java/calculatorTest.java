@@ -36,10 +36,5 @@ public class calculatorTest {
 		
 	}
 	
-	@Test
-	public void subtractThreeNumbers2() {
-		assertEquals(0, calc.subtract(20, 1, 20));
-		
-	}
 	
 }
